@@ -1,2 +1,6 @@
-# dotfiles
-my config files for i3wm
+These are my config files for [i3wm](https://i3wm.org/). I use [Polybar](https://github.com/polybar/polybar) as my panel bar and [Rofi](https://github.com/davatorium/rofi) as my application launcher. Please feel free to adapt these files to your preferences as you see fit.  
+
+![1](https://github.com/ycatsh/dotfiles/assets/91330011/af476b98-c046-45c4-bc79-bb59900ca5c3)  
+  
+![2](https://github.com/ycatsh/dotfiles/assets/91330011/69fb02ed-8178-4ced-828e-fad6926ce419)
+
