@@ -1,9 +1,11 @@
 configuration {
-  display-drun: "Applications:";
+  display-drun: "Run:";
   display-window: "Windows:";
   drun-display-format: "{name}";
-  font: "Cascadia Code 16";
+  font: "Coder's Crux 24";
   modi: "window,run,drun";
+  xoffset: -672;
+  yoffset: -25;
 }
 
 @theme "/dev/null"
@@ -23,8 +25,8 @@ configuration {
 }
 
 window {
-  width: 60%;
-  height: 60%;
+  width: 30%;
+  height: 1150px;
   border: 2;
   border-color: #2d2d2d;
   background-color: @bg;
@@ -46,6 +48,12 @@ element-text {
   background-color: transparent;
   text-color: inherit;
   vertical-align: 0.5;
+}
+
+element-icon{
+  size: 24;
+  padding: 0 10 0 0;
+  background-color: transparent;
 }
 
 entry {
